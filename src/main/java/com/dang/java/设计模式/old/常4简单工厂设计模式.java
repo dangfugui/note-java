@@ -1,4 +1,4 @@
-package com.dang.java.设计模式;
+package com.dang.java.设计模式.old;
 
 interface Work {
     public void working();

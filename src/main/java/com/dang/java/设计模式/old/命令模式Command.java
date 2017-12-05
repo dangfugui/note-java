@@ -1,4 +1,4 @@
-package com.dang.java.设计模式;
+package com.dang.java.设计模式.old;
 
 import java.util.ArrayList;
 import java.util.List;

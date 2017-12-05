@@ -1,4 +1,4 @@
-package com.dang.java.设计模式;
+package com.dang.java.设计模式.old;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

@@ -1,4 +1,4 @@
-package com.dang.java.设计模式;
+package com.dang.java.设计模式.old;
 
 //gift  和 giftImpl  相互排列组合//
 public class 桥接模式Bridge {

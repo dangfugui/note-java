@@ -1,4 +1,4 @@
-package com.dang.java.设计模式;
+package com.dang.java.设计模式.old;
 
 /*
  单例模式：保证一个类仅有一个实例，并提供一个访问它的全局访问点
